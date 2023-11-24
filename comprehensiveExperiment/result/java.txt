@@ -1,0 +1,469 @@
+[D:\java] Result:
+
+Files detail:
++CountFiles
+	+.idea
+	+images
+	+src
+		+main
+			+java
+				+org
+					+example
+						-Main.java                     	Total:        7, Blank:        1,	      132 Bytes
+			+resources
+		+test
+			+java
++GuessNumberGame
+	+.idea
+		+artifacts
+	+out
+		+artifacts
+			+GuessNumberGame_jar
+		+production
+			+GuessNumberGame
+				+META-INF
+	+src
+		+META-INF
+		-GuessNumberGame.java          	Total:       47, Blank:        1,	     1607 Bytes
++PokerGame
+	+.idea
+		+artifacts
+	+out
+		+artifacts
+			+PokerGame_jar
+		+production
+			+PokerGame
+				+META-INF
+	+src
+		+META-INF
++Product
+	+.idea
+		+artifacts
+	+out
+		+artifacts
+			+Product_jar
+		+production
+			+Product
+				+META-INF
+				+data
+	+src
+		+META-INF
+		+data
++Rectangle
+	+.idea
+		+artifacts
+	+out
+		+artifacts
+			+Rectangle_jar
+		+production
+			+Rectangle
+				+META-INF
+				+Main
+				+shape
+	+src
+		+META-INF
+		+Main
+			-main.java                     	Total:       29, Blank:        4,	      788 Bytes
+		+shape
+			-Rectangle.java                	Total:       47, Blank:       11,	      813 Bytes
+			-Utility.java                  	Total:       47, Blank:        3,	     1565 Bytes
++acwing
+	+actest
+		+.idea
+		+out
+			+production
+				+actest
+		+src
+			-Main.java                     	Total:        8, Blank:        2,	      137 Bytes
+			-test1.java                    	Total:       12, Blank:        1,	      354 Bytes
+			-test2.java                    	Total:       11, Blank:        1,	      294 Bytes
++background
++comprehensiveExperiment
+	+.idea
+		+artifacts
+	+images
+	+out
+		+production
+			+comprehensiveExperiment
+				+META-INF
+				+images
+				+ui
+				+uti
+	+result
+	+src
+		+META-INF
+		+images
+		+ui
+			-CountFile.java                	Total:      167, Blank:       22,	     4681 Bytes
+			-FileCheckFrame.java           	Total:      189, Blank:       31,	     7004 Bytes
+			-FileCountFrame.java           	Total:      159, Blank:       30,	     5333 Bytes
+			-MainJFrame.java               	Total:      175, Blank:       33,	     5679 Bytes
+			-ReadTxtFile.java              	Total:       44, Blank:        8,	      960 Bytes
+		+uti
+			-ShareExitMethod.java          	Total:       11, Blank:        2,	      239 Bytes
+			-outputResult.java             	Total:       51, Blank:        3,	     1667 Bytes
+		-App.java                      	Total:        9, Blank:        1,	      170 Bytes
+		-Main.java                     	Total:      111, Blank:        6,	     4120 Bytes
++exp02
+	+.idea
+		+artifacts
+	+out
+		+artifacts
+			+exp02_jar
+		+production
+			+exp02
+				+META-INF
+	+src
+		+META-INF
+		-Main.java                     	Total:       19, Blank:        1,	      762 Bytes
+		-QuadraticEquation.java        	Total:       67, Blank:       11,	      990 Bytes
++itheima
+	+.idea
+	+out
+		+production
+			+itheima
+				+D15demo1
+				+D15demo2
+					+.idea
+					+out
+						+production
+							+D15demo2
+								+.idea
+				+D15demo3
+				+D16
+					+.idea
+					+out
+						+production
+							+D16
+								+.idea
+				+D17
+					+.idea
+					+out
+						+production
+							+D17
+								+.idea
+				+D18
+					+.idea
+					+out
+						+production
+							+D18
+								+.idea
+				+a04demo4
+				+a04demo5
+	+src
+		+D15demo1
+			-Animal.java                   	Total:       55, Blank:        9,	      820 Bytes
+			-Dog.java                      	Total:       15, Blank:        3,	      228 Bytes
+			-Person.java                   	Total:       51, Blank:       10,	      701 Bytes
+			-Sheep.java                    	Total:       21, Blank:        6,	      303 Bytes
+			-Student.java                  	Total:       21, Blank:        6,	      292 Bytes
+			-Test.java                     	Total:        8, Blank:        1,	      184 Bytes
+			-Test1.java                    	Total:        9, Blank:        1,	      161 Bytes
+			-frog.java                     	Total:       15, Blank:        3,	      244 Bytes
+		+D15demo2
+			+.idea
+			+out
+				+production
+					+D15demo2
+						+.idea
+			-Animal.java                   	Total:       29, Blank:        6,	      457 Bytes
+			-Swim.java                     	Total:        3, Blank:        0,	       56 Bytes
+			-Test.java                     	Total:        8, Blank:        0,	      193 Bytes
+			-dog.java                      	Total:       19, Blank:        4,	      309 Bytes
+			-frog.java                     	Total:       18, Blank:        3,	      318 Bytes
+			-rabbit.java                   	Total:       13, Blank:        2,	      223 Bytes
+		+D15demo3
+			-Coach.java                    	Total:       13, Blank:        4,	      187 Bytes
+			-English.java                  	Total:        5, Blank:        1,	       84 Bytes
+			-Person.java                   	Total:       47, Blank:        8,	      615 Bytes
+			-Sportsman.java                	Total:       12, Blank:        3,	      199 Bytes
+			-Test.java                     	Total:       12, Blank:        3,	      251 Bytes
+			-basketballCoach.java          	Total:       23, Blank:        7,	      382 Bytes
+			-basketballPlayer.java         	Total:       20, Blank:        5,	      338 Bytes
+			-pingpongCoach.java            	Total:       25, Blank:        6,	      437 Bytes
+			-pingpongPlayer.java           	Total:       25, Blank:        6,	      445 Bytes
+		+D16
+			+.idea
+				+dataSources
+			+out
+				+production
+					+D16
+						+.idea
+			-D16demo1.java                 	Total:       38, Blank:        1,	     1056 Bytes
+			-D16demo2.java                 	Total:       12, Blank:        1,	      515 Bytes
+		+D17
+			+.idea
+			+out
+				+production
+					+D17
+						+.idea
+			-D17demo1.java                 	Total:       18, Blank:        3,	      659 Bytes
+			-D17demo2.java                 	Total:        8, Blank:        0,	      239 Bytes
+			-D17demo3.java                 	Total:       22, Blank:        4,	      567 Bytes
+			-D17demo4.java                 	Total:       14, Blank:        1,	      373 Bytes
+			-D17demo5.java                 	Total:        7, Blank:        0,	      216 Bytes
+		+D18
+			+.idea
+			+out
+				+production
+					+D18
+						+.idea
+			-demo1.java                    	Total:       16, Blank:        2,	      430 Bytes
+			-demo2.java                    	Total:       17, Blank:        1,	      544 Bytes
+			-demo3.java                    	Total:       31, Blank:        5,	      982 Bytes
+		+a04demo4
+			-Animal.java                   	Total:       50, Blank:        8,	      723 Bytes
+			-Cat.java                      	Total:       20, Blank:        5,	      393 Bytes
+			-Dog.java                      	Total:       19, Blank:        5,	      344 Bytes
+			-Person.java                   	Total:       67, Blank:        9,	     1554 Bytes
+			-Test.java                     	Total:       21, Blank:        3,	      531 Bytes
+		+a04demo5
+			-Student.java                  	Total:       58, Blank:        8,	      974 Bytes
+			-test.java                     	Total:        8, Blank:        1,	      167 Bytes
+		-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
++java代码
+	-Hello.java                    	Total:        7, Blank:        0,	      184 Bytes
+	-HelloWorld.java               	Total:        5, Blank:        0,	      105 Bytes
+	-ScannerDemol.java             	Total:        9, Blank:        0,	      248 Bytes
+	-test1.java                    	Total:        9, Blank:        0,	      147 Bytes
+	-test2.java                    	Total:       12, Blank:        0,	      259 Bytes
+	-test3.java                    	Total:       10, Blank:        0,	      270 Bytes
++java练习
+	+.idea
+	+out
+		+production
+			+java练习
+				+.idea
+			+module
+				+ArrayListTest
+				+My
+				+StringTest
+				+inheritTest
+				+itheima
+					+inheritTest
+				+staticTest
+				+test
+				+test1
+			+project
+				+学生信息管理系统
+	+test
+		-测试代码.java                     	Total:        8, Blank:        2,	      131 Bytes
++module
+	+.idea
+	+out
+		+production
+			+module
+				+ArrayListTest
+				+My
+				+StringTest
+				+inheritTest
+				+itheima
+					+inheritTest
+				+staticTest
+				+test
+				+test1
+	+project
+		+src
+			+学生信息管理系统
+				+.idea
+				+out
+					+production
+						+学生信息管理系统
+							+学生信息管理系统
+								+.idea
+				-Student.java                  	Total:       83, Blank:       12,	     1196 Bytes
+				-Themain.java                  	Total:      348, Blank:       23,	    13341 Bytes
+				-User.java                     	Total:       88, Blank:       13,	     1501 Bytes
+			-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
+	+src
+		+itheima
+			+ArrayListTest
+				-CreatArrayList.java           	Total:       39, Blank:        6,	      983 Bytes
+				-Phone.java                    	Total:       50, Blank:        8,	      757 Bytes
+				-PhoneTest.java                	Total:       29, Blank:        2,	      949 Bytes
+				-Student.java                  	Total:       47, Blank:        8,	      611 Bytes
+				-User.java                     	Total:       68, Blank:       10,	     1117 Bytes
+				-UserTest.java                 	Total:       27, Blank:        2,	      868 Bytes
+				-test1.java                    	Total:       20, Blank:        2,	      492 Bytes
+				-test2.java                    	Total:       19, Blank:        3,	      513 Bytes
+				-test3.java                    	Total:       24, Blank:        2,	      718 Bytes
+			+My
+				-Test.java                     	Total:       16, Blank:        3,	      327 Bytes
+			+StringTest
+				-StringDemo1.java              	Total:       32, Blank:        2,	      869 Bytes
+				-StringDemo2.java              	Total:       16, Blank:        3,	      455 Bytes
+				-StringDemo3.java              	Total:       19, Blank:        1,	      525 Bytes
+				-StringDemo4.java              	Total:       19, Blank:        2,	      595 Bytes
+				-createString.java             	Total:       22, Blank:        1,	      839 Bytes
+				-printString.java              	Total:       15, Blank:        2,	      376 Bytes
+				-两个字符串相乘.java                  	Total:       33, Blank:        2,	      945 Bytes
+				-打乱字符串中的内容.java                	Total:       25, Blank:        3,	      715 Bytes
+				-生成随机验证码.java                  	Total:       27, Blank:        2,	      712 Bytes
+				-用户登录.java                     	Total:       26, Blank:        2,	      793 Bytes
+				-统计一串字符串中最后一个单词的长度.java        	Total:       18, Blank:        1,	      573 Bytes
+				-调整字符串.java                    	Total:       21, Blank:        2,	      527 Bytes
+				-转换罗马数字.java                   	Total:       33, Blank:        3,	     1094 Bytes
+				-金额转换.java                     	Total:       46, Blank:        5,	     1318 Bytes
+			+inheritTest
+				-Animal.java                   	Total:       12, Blank:        1,	      201 Bytes
+				-Cat.java                      	Total:        7, Blank:        1,	      143 Bytes
+				-ChineseDog.java               	Total:        8, Blank:        1,	      154 Bytes
+				-Dog.java                      	Total:        7, Blank:        1,	      128 Bytes
+				-DogDog.java                   	Total:       13, Blank:        1,	      262 Bytes
+				-Husky.java                    	Total:        7, Blank:        1,	      150 Bytes
+				-LiHua.java                    	Total:        5, Blank:        2,	       52 Bytes
+				-People.java                   	Total:       71, Blank:       11,	      996 Bytes
+				-PeopleTest.java               	Total:       13, Blank:        1,	      358 Bytes
+				-Ragdoll.java                  	Total:        5, Blank:        2,	       67 Bytes
+				-SharPei.java                  	Total:       10, Blank:        1,	      181 Bytes
+				-Teddy.java                    	Total:        7, Blank:        1,	      133 Bytes
+				-Test.java                     	Total:       16, Blank:        2,	      340 Bytes
+				-cooker.java                   	Total:       13, Blank:        2,	      239 Bytes
+				-dogTest.java                  	Total:       21, Blank:        3,	      385 Bytes
+				-leader.java                   	Total:       38, Blank:        7,	      613 Bytes
+			+staticTest
+				-Student.java                  	Total:       68, Blank:       10,	     1044 Bytes
+				-StudentTest.java              	Total:       17, Blank:        2,	      568 Bytes
+				-StudentUtil.java              	Total:       18, Blank:        2,	      461 Bytes
+				-test1.java                    	Total:       33, Blank:        3,	      838 Bytes
+				-test1test.java                	Total:       12, Blank:        1,	      325 Bytes
+			+test
+				-User.java                     	Total:      102, Blank:       15,	     1550 Bytes
+				-girlfriend.java               	Total:       43, Blank:        7,	      918 Bytes
+				-girlfriendtest.java           	Total:       15, Blank:        1,	      407 Bytes
+				-test1.java                    	Total:       14, Blank:        2,	      383 Bytes
+				-test2.java                    	Total:       19, Blank:        3,	      441 Bytes
+				-test3.java                    	Total:       24, Blank:        2,	      494 Bytes
+				-test4.java                    	Total:       12, Blank:        1,	      236 Bytes
+				-test5.java                    	Total:       51, Blank:        2,	     1201 Bytes
+				-test6.java                    	Total:       34, Blank:        4,	      934 Bytes
+				-双色球中奖.java                    	Total:       79, Blank:        4,	     2654 Bytes
+				-找素数.java                      	Total:       21, Blank:        1,	      446 Bytes
+				-抽奖.java                       	Total:       17, Blank:        2,	      408 Bytes
+				-数字加密.java                     	Total:       35, Blank:        2,	      878 Bytes
+				-生成验证码.java                    	Total:       31, Blank:        2,	      798 Bytes
+				-评委打分.java                     	Total:       39, Blank:        2,	     1018 Bytes
+			+test1
+				-Car.java                      	Total:       66, Blank:       11,	      926 Bytes
+				-CarTest.java                  	Total:       26, Blank:        2,	      869 Bytes
+				-Gametext.java                 	Total:       27, Blank:        2,	      857 Bytes
+				-GoodTest.java                 	Total:       22, Blank:        3,	      645 Bytes
+				-Goods.java                    	Total:       51, Blank:       12,	      807 Bytes
+				-Phone.java                    	Total:       68, Blank:       10,	     1059 Bytes
+				-PhoneTest.java                	Total:       29, Blank:        2,	     1048 Bytes
+				-Role.java                     	Total:      114, Blank:       17,	     4035 Bytes
+				-Student.java                  	Total:       64, Blank:        9,	      854 Bytes
+				-StudentTest.java              	Total:       82, Blank:        2,	     2410 Bytes
+		-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
++project
+	+.idea
+	+TestSnake
+		+.idea
+		+out
+			+production
+				+TestSnake
+					+com
+						+game
+					+images
+		+src
+			+com
+				+game
+					-GamePanel.java                	Total:      280, Blank:       43,	     9504 Bytes
+					-Images.java                   	Total:       43, Blank:       12,	     1733 Bytes
+					-StartGame.java                	Total:       33, Blank:        7,	     1027 Bytes
+			+images
+			-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
+	+out
+		+production
+			+TestSnake
+				+com
+					+game
+				+images
+			+puzzlegame
+				+com
+					+yangyu
+						+ui
+				+test
+	+puzzlegame
+		+.idea
+		+image
+			+animal1
+			+animal2
+			+else
+			+girl
+			+login
+			+people
+			+people2
+			+register
+			+scenery
+			+scenery1
+			+scenery2
+			+star1
+			+star2
+			+star3
+			+star4
+		+out
+			+production
+				+puzzlegame
+					+com
+						+yangyu
+							+ui
+					+test
+		+src
+			+com
+				+yangyu
+					+ui
+						-CodeUtil.java                 	Total:       32, Blank:        5,	      719 Bytes
+						-GameJFame.java                	Total:      365, Blank:       36,	    11551 Bytes
+						-LoginJFrame.java              	Total:      172, Blank:       19,	     5982 Bytes
+						-RegisterJFrame.java           	Total:       21, Blank:        3,	      475 Bytes
+						-User.java                     	Total:       48, Blank:        9,	      662 Bytes
+			+test
+				-Test.java                     	Total:       47, Blank:        4,	     1321 Bytes
+			-App.java                      	Total:       15, Blank:        4,	      272 Bytes
+			-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
++sdf
+	+src
+		-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
+		-sd.java                       	Total:        5, Blank:        0,	      100 Bytes
++test
+	+.idea
+	+out
+		+production
+			+test
+	+src
+		-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
+		-PokerGame.java                	Total:       59, Blank:        1,	     1759 Bytes
++test2
+	+.idea
+		+artifacts
+	+out
+		+artifacts
+			+test2_jar
+		+production
+			+test2
+				+META-INF
+	+src
+		+META-INF
+		-Main.java                     	Total:       40, Blank:        3,	     1030 Bytes
++untitled
+	+.idea
+	+out
+		+production
+			+sdf
++untitled1
+	+.idea
+	+src
+		+META-INF
+		-Main.java                     	Total:        5, Blank:        0,	      112 Bytes
+		-test.java                     	Total:        5, Blank:        1,	       69 Bytes
++基础课知识点
++数据结构课设
+	+.idea
+	-TreeArr.java                  	Total:        5, Blank:        1,	       80 Bytes
++模块
+Total:
+		162 Java Files
+		6,069 lines in files
+		777 blank lines
+		161,136 bytes

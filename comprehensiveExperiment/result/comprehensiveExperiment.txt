@@ -1,0 +1,33 @@
+[D:\java\comprehensiveExperiment] Result:
+
+Files detail:
++.idea
+	+artifacts
++images
++out
+	+production
+		+comprehensiveExperiment
+			+META-INF
+			+images
+			+ui
+			+uti
++result
++src
+	+META-INF
+	+images
+	+ui
+		-CountFile.java                	Total:      167, Blank:       22,	     4681 Bytes
+		-FileCheckFrame.java           	Total:      196, Blank:       33,	     7560 Bytes
+		-FileCountFrame.java           	Total:      164, Blank:       30,	     5748 Bytes
+		-MainFrame.java                	Total:      166, Blank:       32,	     5805 Bytes
+		-ReadTxtFile.java              	Total:       44, Blank:        8,	      966 Bytes
+	+uti
+		-OutputResult.java             	Total:       59, Blank:        5,	     1908 Bytes
+		-ShareMethod.java              	Total:       12, Blank:        2,	      307 Bytes
+	-App.java                      	Total:        7, Blank:        1,	      112 Bytes
+	-Main.java                     	Total:      111, Blank:        6,	     4120 Bytes
+Total:
+		9 Java Files
+		926 lines in files
+		139 blank lines
+		31,207 bytes

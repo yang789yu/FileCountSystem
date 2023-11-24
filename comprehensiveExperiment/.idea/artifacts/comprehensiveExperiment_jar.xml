@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="comprehensiveExperiment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/comprehensiveExperiment_jar</output-path>
+    <root id="archive" name="comprehensiveExperiment.jar">
+      <element id="module-output" name="comprehensiveExperiment" />
+      <element id="module-source" name="comprehensiveExperiment" />
+    </root>
+  </artifact>
+</component>

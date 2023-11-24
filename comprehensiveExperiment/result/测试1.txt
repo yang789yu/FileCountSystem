@@ -1,0 +1,10 @@
+[D:\测试1] Result:
+
+Files detail:
+-Product.java                  	Total:      151, Blank:       31,	     3646 Bytes
+-ProductManager.java           	Total:      140, Blank:       10,	     5865 Bytes
+Total:
+		2 Java Files
+		291 lines in files
+		41 blank lines
+		9,511 bytes

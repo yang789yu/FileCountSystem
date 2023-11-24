@@ -1,0 +1,21 @@
+[D:\测试4] Result:
+
+Files detail:
++测试
+	+a
+		-PokerGame.java                	Total:      169, Blank:       12,	     5517 Bytes
+	-Product.java                  	Total:      151, Blank:       31,	     3646 Bytes
+	-ProductManager.java           	Total:      140, Blank:       10,	     5865 Bytes
++测试1
+	-Product.java                  	Total:      151, Blank:       31,	     3646 Bytes
+	-ProductManager.java           	Total:      140, Blank:       10,	     5865 Bytes
++测试2
+	+a
+		-PokerGame.java                	Total:      169, Blank:       12,	     5517 Bytes
+	+b
+		-Test.java                     	Total:       37, Blank:        4,	     1474 Bytes
+Total:
+		7 Java Files
+		957 lines in files
+		110 blank lines
+		31,530 bytes

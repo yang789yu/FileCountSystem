@@ -1,0 +1,12 @@
+[D:\测试2] Result:
+
+Files detail:
++a
+	-PokerGame.java                	Total:      169, Blank:       12,	     5517 Bytes
++b
+	-Test.java                     	Total:       37, Blank:        4,	     1474 Bytes
+Total:
+		2 Java Files
+		206 lines in files
+		16 blank lines
+		6,991 bytes
